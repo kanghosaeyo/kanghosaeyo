@@ -57,7 +57,7 @@ GPA: 4.0
 - Beginner at: TypeScript
 
 ### Languages
-- Fluent in: Korean  
+- Fluent in: English, Korean  
 
 ### Interests
 - Playing Bassoon  
