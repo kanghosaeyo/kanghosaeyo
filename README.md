@@ -1,5 +1,5 @@
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science** Major with a strong foundation **Biology** (Minor!). I am currently exploring interests in **biotechnology and bioinformatics**!!
+Welcome to my GitHub profile! I'm a passionate **Computer Science** Major with a strong foundation in **Biology** (Minor!). I am currently exploring interests in **biotechnology and bioinformatics**!!
 
 ---
 
