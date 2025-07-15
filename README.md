@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** Major with a
 
 ## 📫 How to Reach Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/oscar-ji-81b4452a7/)
-- 📧 Email: ji.kang@northeastern.edu
+- 📧 Email: ji.kang@northeastern.edu or zigeng1015@gmail.com
 
 
