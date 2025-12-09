@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** Major with a
 ---
 
 ## 🌟 About Me
-- 🏫 **Student at Northeastern University** (Freshman)
+- 🏫 **Student at Northeastern University** (Sophomore)
 - 💻 Currently exploring **biotechnology**, **computational work in healthcare**, and **bioinformatics**
 - 🧠 Always curious and eager to learn something new
 
