@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** Major with a
 
 ## 🌟 About Me
 - 🏫 **Student at Northeastern University** (Sophomore)
-- 💻 Currently exploring **biotechnology**, **computational work in healthcare**, and **bioinformatics**
+- 💻 Currently exploring **bioinformatics** and **computational biology**
 - 🧠 Always curious and eager to learn something new
 
 ## 📫 How to Reach Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/oscar-ji-81b4452a7/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/oscar-ji)
 - 📧 Email: ji.kang@northeastern.edu or zigeng1015@gmail.com
 
 
